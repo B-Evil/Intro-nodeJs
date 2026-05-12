@@ -1,10 +1,6 @@
 # Intro-nodeJs
 Este repositório tem como propósito registrar e organizar meus estudos Back-End com nodeJs.
 
-## Resumo dos Estudos na Pasta "praticando"
-
-A pasta `praticando/` contém exercícios iniciais para aprender os fundamentos do desenvolvimento back-end com Node.js e Express.js. Esses arquivos demonstram o progresso gradual no entendimento de conceitos como servidores HTTP, rotas, parâmetros de requisição e operações CRUD. Abaixo, um resumo detalhado dos estudos realizados:
-
 ### 1. **index.js - Introdução aos Parâmetros de Requisição**
    - **Objetivo**: Aprender a diferença entre parâmetros de query e de rota no Express.
    - **Conteúdo**:
@@ -49,4 +45,4 @@ A pasta `praticando/` contém exercícios iniciais para aprender os fundamentos 
 - **Ferramentas**: Todos os arquivos usam Express.js, demonstrando familiaridade com o framework.
 - **Próximos Passos**: Transição para controladores separados, integração com banco de dados real (ex.: Sequelize), e validação avançada.
 
-Esses exercícios formam a base para os estudos mais avançados no projeto, como a implementação de uma API estruturada na pasta `src/`.
+Esses exercícios formam a base para os estudos mais avançados no projeto, como a implementação de uma API estruturada.
